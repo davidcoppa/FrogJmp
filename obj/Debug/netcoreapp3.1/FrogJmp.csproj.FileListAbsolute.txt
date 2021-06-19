@@ -1,0 +1,13 @@
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.exe
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.deps.json
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.runtimeconfig.json
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.runtimeconfig.dev.json
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.dll
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\bin\Debug\netcoreapp3.1\FrogJmp.pdb
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.csproj.AssemblyReference.cache
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.AssemblyInfoInputs.cache
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.AssemblyInfo.cs
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.csproj.CoreCompileInputs.cache
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.dll
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.pdb
+D:\Dropbox\david\code\GitHub\C#\FrogJmp\FrogJmp\obj\Debug\netcoreapp3.1\FrogJmp.genruntimeconfig.cache
